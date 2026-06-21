@@ -1,0 +1,13 @@
+{
+  "names": {
+    "relativelyirrelevant": "ed458838319031c1714944c91bc3f59c56da0e779297b22541c867e632f4fce1"
+  },
+  "relays": {
+    "ed458838319031c1714944c91bc3f59c56da0e779297b22541c867e632f4fce1": [
+      "wss://relay.damus.io",
+      "wss://relay.primal.net",
+      "wss://nos.lol",
+      "wss://relay.snort.social"
+    ]
+  }
+}
